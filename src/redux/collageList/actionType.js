@@ -1,0 +1,3 @@
+
+export const FETCH_COLLAGE_LIST = "FETCH_COLLAGE_LIST"
+export const FAILD_GET = "FAILD_GET"
